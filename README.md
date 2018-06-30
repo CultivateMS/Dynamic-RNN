@@ -25,4 +25,7 @@ Start to load model.
 Testing Accuracy: 0.83
 Predict Result: [[1, 0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 0, 0, 0, 0, 0, 0]]
 
+references:
+https://github.com/aymericdamien/TensorFlow-Examples/
+https://github.com/hallySEU/Dynamic-RNN-LSTM-GRU/blob/master/README.md
 
