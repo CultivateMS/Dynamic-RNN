@@ -1,8 +1,8 @@
-use dynamic rnn punctuation sentence
+use dynamic rnn for text classification
 data format:
 seq\tseq\t...\tseq&label
 seq's word embeding and its format:feature1#feature2...#featuren
-label with punctuate's one-hot encode
+label with label's one-hot encode
 
 run:
 python dynamic_rnn.py
